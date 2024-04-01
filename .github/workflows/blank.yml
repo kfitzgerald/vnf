@@ -44,7 +44,7 @@ jobs:
       - name: Upload a Build Artifact
         uses: actions/upload-artifact@v4.3.1
         with:
-          name: 'resource-pack'
+          name: 'release-bundle-unzip-me'
           path: |
             vnf.zip
             checksum.txt
