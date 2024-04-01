@@ -1,0 +1,53 @@
+{
+    "parent": "minecraft:block/carved_pumpkin",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "block/custom/denon-prime-4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "block/custom/xdj-xz"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "block/custom/dell27"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "block/custom/streamdeck"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "block/custom/macbook"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "block/custom/fujixt4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "block/custom/anjuna_a_white"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "block/custom/anjuna_a_black"
+        }
+    ]
+}
